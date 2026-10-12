@@ -1,0 +1,38 @@
+*{font-family: "Dancing Script"}
+
+h1 {
+    text-align: center;
+    background-color: rgba(21,03,200,1);
+    color:red;
+    text-decoration:underline;
+    display:inline-block;
+    width:auto;
+    margin-left: 35%;
+
+}
+p {
+    color: rgb(153, 11, 158)  ;
+    font-weight: 1000;
+    font-size: 20px;
+    text-align: center;
+    
+}
+figure  {
+    color: rgb(153, 11, 158)  ;
+    display:block;
+    width:90%;
+    font-weight: 1000;
+    font-size: 18px;
+    text-align:center;
+    
+    
+
+}
+figure  img {
+    width:300px;
+    height:350px; 
+    position:relative;
+    top: 1px;
+    left:20px;}
+    
+
