@@ -1,0 +1,25 @@
+* {
+    font-family: "Dancing Script";
+    font-size: 30px;
+    box-sizing: border-box;
+    border: 3px solid red;
+    
+a {
+    text-decoration: none;
+    border:none;
+    color: red;
+}
+p {
+    border:none;
+    padding: 12px, 20px;
+    
+}
+
+}
+p:nth-of-type(1)::first-letter{
+    color: rgb(9, 137, 137);
+    font-size: 50px;
+}
+p:nth-of-type(2)::first-line {
+    color:rgb(115, 215, 215);
+}

@@ -1,0 +1,13 @@
+* {
+    font-family: "Isometra";
+  font-weight: 2px;
+  font-style: normal;
+  line-height: 200%;
+}
+p:nth-of-type(2) {
+    color:red;
+}
+p:nth-of-type(3) {
+    background-color: blanchedalmond;
+    border-left: 8px solid orangered;
+}
